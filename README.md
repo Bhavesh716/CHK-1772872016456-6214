@@ -1,4 +1,4 @@
-![SACH-AI Logo](assets/logo.png)
+![SACH-AI Logo](ASSETS/logo.png)
 
 ---
 
